@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/Lights-Out-Reactjs-Game/static/css/main.997ce5c1.chunk.css",
+    "main.js": "/Lights-Out-Reactjs-Game/static/js/main.ba1957f9.chunk.js",
+    "main.js.map": "/Lights-Out-Reactjs-Game/static/js/main.ba1957f9.chunk.js.map",
+    "runtime-main.js": "/Lights-Out-Reactjs-Game/static/js/runtime-main.421b0a2f.js",
+    "runtime-main.js.map": "/Lights-Out-Reactjs-Game/static/js/runtime-main.421b0a2f.js.map",
+    "static/js/2.66c6f2f6.chunk.js": "/Lights-Out-Reactjs-Game/static/js/2.66c6f2f6.chunk.js",
+    "static/js/2.66c6f2f6.chunk.js.map": "/Lights-Out-Reactjs-Game/static/js/2.66c6f2f6.chunk.js.map",
+    "static/js/3.cf20a501.chunk.js": "/Lights-Out-Reactjs-Game/static/js/3.cf20a501.chunk.js",
+    "static/js/3.cf20a501.chunk.js.map": "/Lights-Out-Reactjs-Game/static/js/3.cf20a501.chunk.js.map",
+    "index.html": "/Lights-Out-Reactjs-Game/index.html",
+    "static/css/main.997ce5c1.chunk.css.map": "/Lights-Out-Reactjs-Game/static/css/main.997ce5c1.chunk.css.map",
+    "static/js/2.66c6f2f6.chunk.js.LICENSE.txt": "/Lights-Out-Reactjs-Game/static/js/2.66c6f2f6.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.421b0a2f.js",
+    "static/js/2.66c6f2f6.chunk.js",
+    "static/css/main.997ce5c1.chunk.css",
+    "static/js/main.ba1957f9.chunk.js"
+  ]
+}
